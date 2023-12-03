@@ -1,0 +1,82 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .content {
+    text-align:center;
+    
+  }
+
+   
+ 
+  .welcome {
+    color: rgb(130, 71, 255);
+    background-color: white;
+    border-radius: 6px; 
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px; 
+    height: 30px; 
+    margin: 80px auto 10px auto;
+    
+   
+  }
+
+ .bigtext{
+    font-size: 80px;
+    font-weight:500;
+    
+    margin: 0;
+ }
+ .orange-text {
+    color: rgb(254, 129, 98);
+     }
+  
+ .smalltext{
+    color: rgb(118, 117, 156);
+    font-size: 20px;
+    margin: 0;
+ }
+  
+
+  .get-started-btn
+   {
+    background-color: rgb(130, 71, 255); 
+    color: white;
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 10px;
+    margin: 40px;
+    border: none;
+    height: 50px;
+    width: 200px;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
+  .watch-demo-btn {
+    background-color: white; 
+    color: white;
+    font-family: poppins;
+    font-size: 20px;
+    color: black;
+    font-weight: 500;
+    padding: 10px 10px;
+    margin: 40px;
+    border: none;
+    height: 50px;
+    width: 200px;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+
+  .get-started-btn:hover,
+.watch-demo-btn:hover {
+  transform: translateY(-10px); 
+  transition: transform 0.1s ease; 
+}
+  

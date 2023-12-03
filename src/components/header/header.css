@@ -1,0 +1,68 @@
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+        
+  }
+  
+ .logosss{
+  padding-left: 20px;
+ }
+  .logosss img {
+    width: 180px; 
+    height: 40px;
+     
+    
+  }
+  
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    
+  }
+
+  .nav-links {
+    padding-left: 600px;
+    list-style: none;
+    display: flex;
+    color: black;
+    
+    
+    
+  }
+  
+  .nav-links li {
+   
+    color: black;
+    margin-left: 50px; 
+  }
+  
+
+  .cta .buy-button {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 10px; 
+    font-family: poppins;
+    font-weight: bold;
+
+  
+    
+    
+   
+  }
+  .cta .buy-button:hover{
+    border-color: black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1); 
+    transition: border-color 0.3s, box-shadow 0.3s;
+    font-family: poppins;
+  }
+
+  .cta{
+    padding-right: 25px;
+  }
+
+ 
+  

@@ -1,0 +1,56 @@
+
+
+.faq-section {
+    display: flex;
+  }
+  
+  .intro {
+    width: 50%;
+    padding: 20px;
+  }
+  
+  .questions {
+    width: 50%;
+    padding: 20px;
+  }
+  
+  .question-header {
+    background-color: rgb(247, 248, 253);
+    
+    border-radius: 20px;
+    margin: 7%;
+    padding: 10px;
+    font-size: 15px;
+  }
+  
+  .expanded {
+    background-color: white; 
+  }
+  
+  .expand-button {
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 10px;
+    color: blue;
+    border-radius: 20px;
+  }
+  .high {
+    color: rgb(130, 71, 255);
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80px;
+    height: 20px;
+    padding: 5px;
+    text-align: center;
+    margin: 10% 20% ;
+  }  
+
+  .need{
+    margin: 0 20%;
+    font-weight: 700;
+  }
+
+  .orangecols{
+    color: rgb(254, 129, 98);
+  }

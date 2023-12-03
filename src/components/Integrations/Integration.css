@@ -1,0 +1,54 @@
+
+.integration-section {
+    background-color: rgb(28, 28, 28); 
+    padding: 20px;
+  }
+.integration {
+    text-align: center;
+    
+  }
+  
+  .highs {
+    color: rgb(130, 71, 255);
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+    margin: 10% auto   0 auto ;
+  }
+  
+  .hightext {
+    font-weight: 500;
+    color: rgb(253, 242, 236);
+    margin-top: 2%;
+    
+  }
+  
+  .orangecol {
+    color: rgb(254, 129, 98);
+  }
+  
+  .lowtext {
+    color: rgb(118, 117, 117);
+    font-size: 20px;
+    margin-top: 2%;
+   
+  }
+  
+
+  img {
+    width: 40%; 
+    display: block;
+    margin: 20px auto;
+   
+  }
+
+  .icon-spacing {
+    margin-right: 10%;
+  }
+  .logos-left{
+    margin-top: 5%;
+  }

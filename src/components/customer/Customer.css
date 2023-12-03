@@ -1,0 +1,58 @@
+
+.integrations-section {
+    
+    margin: 10% 20%; 
+    padding: 2px 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4); 
+  }
+.integrations {
+    text-align: center;
+    
+  }
+  
+  .highss {
+    color: rgb(130, 71, 255);
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 180px;
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+    margin: 10% auto   0 auto ;
+  }
+  
+  .hightexts {
+    font-weight: 500;
+    color: black;
+    margin-top: 2%;
+    
+  }
+  
+  .orangecol {
+    color: rgb(254, 129, 98);
+  }
+  
+  .lowtexts {
+    color: rgb(118, 117, 117);
+    font-size: 20px;
+    margin-top: 2%;
+   
+  }
+  .try-out {
+    background-color: rgb(130, 71, 255);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 20px;
+  }
+  .try-out:hover {
+    background-color: rgb(254, 129, 98);
+    color: white;
+  }
+
